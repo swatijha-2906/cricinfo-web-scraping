@@ -22,5 +22,5 @@ The following 3 activities are carried out in this project-
 1. Different files created for implementing different activities.
 2. Cheerio module used here for web scraping.
 3. Disadvantage of cheerio module: it only parses and extracts initial loaded html, so we cannot find first ball commentary using this.
-4. HTML seggregation is done using another file (table.js) to make information extraction easier.
+4. HTML seggregation is done using another file (table.html) to make information extraction easier.
 5. Multiple page scraping is done here in printing birthdays of every batsmen.
